@@ -4,7 +4,7 @@ Välkommen till min webbutvecklingsportfölj! Här visar jag upp olika projekt s
 
 ## Projekt
 
-- **[Web Game Project](link)**
+- **[Web Game Project](https://github.com/robertRizzo/brickBreakerGame/tree/main)**
   - Beskrivning: Ett webbaserat spel med grundläggande spelmekanik och animation.
 
 - **[Explanation for the project "Web Game Project"](link)**
